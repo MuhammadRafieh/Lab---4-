@@ -15,3 +15,12 @@ int main() {
     cout << "Difference: " << a - b << endl;
     return 0;
 }
+
+#include <iostream>
+using namespace std;
+
+int main() {
+    int a = 5, b = 3;
+    cout << "Product: " << a * b << endl;
+    return 0;
+}
